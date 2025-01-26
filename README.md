@@ -78,7 +78,7 @@ jupyter notebook Sales_Analysis.ipynb
 📍 Bengaluru, Karnataka, India  
 📧 **Email:** arpitapanigrahip@gmail.com  
 🔗 [**GitHub Profile**](https://github.com/Arpita-Panigrahi)  
-🔗 [**LinkedIn Profile**]([https://www.linkedin.com/in/arpita-panigrahi](https://www.linkedin.com/in/arpita-panigrahi-6a753428a/))  
+🔗 [**LinkedIn Profile**](https://www.linkedin.com/in/arpita-panigrahi-6a753428a/)  
 
 ---
 
